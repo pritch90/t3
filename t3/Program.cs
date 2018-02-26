@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium.Chrome;
 
-namespace t3
+namespace t3.Runner
 {
     class Program
     {

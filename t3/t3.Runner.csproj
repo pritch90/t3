@@ -7,8 +7,8 @@
     <ProjectGuid>{E009231F-0205-4586-AAB2-4C19CB95BF3F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>t3</RootNamespace>
-    <AssemblyName>t3</AssemblyName>
+    <RootNamespace>t3.Runner</RootNamespace>
+    <AssemblyName>t3.Runner</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
